@@ -18,9 +18,9 @@ Based exclusively on public IBM Quantum calibration data (Heron-r2 / Nighthawk â
 
 ### Documents
 - [Preprint PDF (3 pages)](paper/golden_ratio_fractal_encoding_2025.pdf)
-- arXiv submission in process (quant-ph)
-- Permanent archive: Zenodo DOI (coming soon)
-
+  
+- Permanent archive: Zenodo DOI 
+https://doi.org/10.5281/zenodo.17793810
 ### Code
 - Full reproducible notebook: `golden_ratio_fractal_4043.ipynb`
 
