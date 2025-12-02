@@ -14,7 +14,7 @@ Based exclusively on public IBM Quantum calibration data (Heron-r2 / Nighthawk �
 ### Visual results
 ## Physical vs Logical qubits & Golden-ratio modulation field 
 
-![Golden-Ratio Fractal Quantum Encoding – 4043 Logical Qubits](fractal_quantum.png)
+![Golden-Ratio Fractal Quantum Encoding – 4043 Logical Qubits](figures/fractal_quantum.png)
 
 
 ### Documents
