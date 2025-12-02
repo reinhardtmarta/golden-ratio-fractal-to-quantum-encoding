@@ -12,7 +12,7 @@ Marta Reinhardt · December 2025
 Based exclusively on public IBM Quantum calibration data (Heron-r2 / Nighthawk – December 2025).
 
 ### Visual results
-| Physical vs Logical qubits & Golden-ratio modulation field |
+## Physical vs Logical qubits & Golden-ratio modulation field 
 ![Net gain +2043 logical qubits](fractal quantum.png)]
 
 ### Documents
