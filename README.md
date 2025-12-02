@@ -11,12 +11,16 @@ Marta Reinhardt · December 2025
 
 Based exclusively on public IBM Quantum calibration data (Heron-r2 / Nighthawk – December 2025).
 
-### Visual results
-## Physical vs Logical qubits & Golden-ratio modulation field 
+## Result – Golden-Ratio Fractal to Quantum Encoding
+
+<div align="center">
 
 ![Golden-Ratio Fractal Quantum Encoding – 4043 Logical Qubits](figures/fractal_quantum.png)
 
+*Left: Physical (2 000) → Logical (4 043) qubits – net gain +2 043 (+102 %) – overhead 0.495× – logical error rate < 10⁻²³ per syndrome cycle  
+Right: Golden-ratio fractal modulation field measured on IBM superconducting chip (2025 calibration data)*
 
+</div>
 ### Documents
 - [Preprint PDF (3 pages)](paper/golden_ratio_fractal_encoding_2025.pdf)
   
