@@ -13,7 +13,7 @@ Based exclusively on public IBM Quantum calibration data (Heron-r2 / Nighthawk â
 
 ### Visual results
 | Physical vs Logical qubits & Golden-ratio modulation field |
-![Net gain +2043 logical qubits](fractal quantum.png) 
+![Net gain +2043 logical qubits](fractal quantum.png)]
 
 ### Documents
 - [Preprint PDF (3 pages)](paper/golden_ratio_fractal_encoding_2025.pdf)
